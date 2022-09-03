@@ -29,6 +29,7 @@ Gallery of Jupyter notebooks representing use cases
 | :---          | :----       | :---           | :---           |  
 | ITKIOScanco     | An ITK module to read and write Scanco microCT .isq files.| [go to repository](https://github.com/KitwareMedical/ITKIOScanco)| Click on the *launch binder* badge |
 | pyKNEEr     | An open and reproducible workflow for knee cartilage segmentation| [go to repository](https://github.com/sbonaretti/pyKNEEr)| Click on the *launch binder* badges|
+| ciclope     | Process micro Computed Tomography images to generate Finite Element models| [go to repository](https://github.com/gianthk/ciclope)| Visit the [documentation page](https://ciclope.readthedocs.io/en/latest/examples.html)|
 
 
 
